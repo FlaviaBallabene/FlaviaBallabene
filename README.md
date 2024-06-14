@@ -1,11 +1,20 @@
 <div align="center">
 
 ![Dark Blue Modern Technology Twitter Header (1)](https://github.com/FlaviaBallabene/FlaviaBallabene/assets/139667150/4e7aa381-97f0-4f07-88d6-d3605c363258)
+</div>
 
 
-### 👩‍💼🚀 About Me: From Business to Bytes! 🚀👩‍💼
+### 👩‍💼🚀 About Me: From Business to Bytes!
+<div align="justify">
 
 I'm not your typical Full Stack Developer; I'm a professional who worked with amazing people and companies worldwide, ranging from startups to giants like Apple and Allianz. These experiences prepared me for my next exciting challenge. Now, I'm ready to transition into a career as a full-stack developer, driven by passion and continuous learning. After all, it's never too late for a change.
+
+</div>
+
+### 📖 My Recent Project: "Recipedia"
+<div align="justify">
+
+"Recipedia" is a holistic solution for personal health and nutrition, showcasing my ability to integrate cutting-edge technologies and concepts. This project features artificial intelligence to personalize user experiences with chatbot assistance, robust authentication systems, account personalization, and seamless API integration for functionalities like customizable filters for users to tailor their culinary journey.
 
 </div>
 
@@ -34,14 +43,13 @@ I'm not your typical Full Stack Developer; I'm a professional who worked with am
 ![Unity](https://img.shields.io/badge/-unity-000?&logo=unity)
 
 
-
-### 📊 Github Stats
-<p align="center">
-<a href="https://www.github.com/FlaviaBallabene"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaBallabene&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
-<p/>
-
 ### 🤝 Let's Connect 
-Whether you're looking for a coding collaborator, bot guru, or just a friendly chat about tech and business, I'm your partner in crime. Send me an email at [flavia.ballabene@hotmail.com](flavia.ballabene@hotmail.com)
+<div align="justify">
+Whether you're looking for a coding collaborator, or just a friendly chat about tech and business, I'm your partner in crime. Send me an email at [flavia.ballabene@hotmail.com](flavia.ballabene@hotmail.com) or connect with me via LinkedIn 
+<a href="https://www.linkedin.com/in/flavia-ballabene/">
+  <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="15px"/>
+</a>
+</div>
 
 ---
 
