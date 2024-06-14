@@ -44,12 +44,12 @@ I'm not your typical Full Stack Developer; I'm a professional who worked with am
 
 
 ### 🤝 Let's Connect 
-<div align="justify">
+
 Whether you're looking for a coding collaborator, or just a friendly chat about tech and business, I'm your partner in crime. Send me an email at [flavia.ballabene@hotmail.com](flavia.ballabene@hotmail.com) or connect with me via LinkedIn 
 <a href="https://www.linkedin.com/in/flavia-ballabene/">
   <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="15px"/>
 </a>
-</div>
+
 
 ---
 
