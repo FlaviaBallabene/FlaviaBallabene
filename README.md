@@ -7,7 +7,7 @@
 ### 👩‍💼🚀 About Me: From Business to Bytes!
 <div align="justify">
 
-I'm not your typical Full Stack Developer; I'm a professional who worked with amazing people and companies worldwide, ranging from startups to giants like Apple and Allianz. These experiences prepared me for my next exciting challenge. Now, I'm ready to transition into a career as a full-stack developer, driven by passion and continuous learning. After all, it's never too late for a change.
+I'm not your typical Full Stack Developer; I come from a background in marketing, where I had the privilege of working with incredible teams and companies around the globe, from scrappy startups to industry leaders like Apple and Allianz. These experiences have shaped my perspective and prepared me for a role that combines creativity, strategy and technology. Fueled by passion and continuous learning, I’m proof that it’s never too late to embrace new skills and expand your horizons.
 
 </div>
 
