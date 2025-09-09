@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1500" height="500" alt="Dark Blue Modern Technology Twitter Header (1)" src="https://github.com/user-attachments/assets/220fe5e9-5421-4561-ba4d-fc85f393a209" />
 
 ![Dark Blue Modern Technology Twitter Header (1)](https://github.com/FlaviaBallabene/FlaviaBallabene/assets/139667150/4e7aa381-97f0-4f07-88d6-d3605c363258)
 </div>
