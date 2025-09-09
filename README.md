@@ -6,11 +6,11 @@
 ### 👩‍💼🚀 About Me: From Business to Bytes!
 <div align="justify">
 
-I’m not your typical Full Stack Developer; my career began in marketing, where I had the privilege of working with incredible teams and companies around the globe, from scrappy startups to industry leaders like Apple and Allianz. These experiences shaped my perspective and now enrich the way I approach development—combining creativity, strategy, and technology. Fueled by passion and continuous learning, I enjoy exploring new skills and pushing myself to expand my horizons.
+I’m not your typical Full Stack Developer; my career began in marketing and recruiting, where I had the privilege of working with incredible teams and companies around the globe, from scrappy startups to industry leaders like Apple and Allianz. These experiences shaped my perspective and now enrich the way I approach development—combining creativity, strategy, and technology. Fueled by passion and continuous learning, I enjoy exploring new skills and pushing myself to expand my horizons.
 
 </div>
 
-### 📖 My Recent Project: "Recipedia"
+### 📖 One of my Projects: "Recipedia"
 <div align="justify">
 
 "Recipedia" is a holistic solution for personal health and nutrition, showcasing my ability to integrate cutting-edge technologies and concepts. This project features artificial intelligence to personalize user experiences with chatbot assistance, robust authentication systems, account personalization, and seamless API integration for functionalities like customizable filters for users to tailor their culinary journey.
