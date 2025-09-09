@@ -7,7 +7,7 @@
 ### 👩‍💼🚀 About Me: From Business to Bytes!
 <div align="justify">
 
-I'm not your typical Full Stack Developer; I come from a background in marketing, where I had the privilege of working with incredible teams and companies around the globe, from scrappy startups to industry leaders like Apple and Allianz. These experiences have shaped my perspective and prepared me for a role that combines creativity, strategy and technology. Fueled by passion and continuous learning, I’m proof that it’s never too late to embrace new skills and expand your horizons.
+I’m not your typical Full Stack Developer; my career began in marketing, where I had the privilege of working with incredible teams and companies around the globe, from scrappy startups to industry leaders like Apple and Allianz. These experiences shaped my perspective and now enrich the way I approach development—combining creativity, strategy, and technology. Fueled by passion and continuous learning, I enjoy exploring new skills and pushing myself to expand my horizons.
 
 </div>
 
