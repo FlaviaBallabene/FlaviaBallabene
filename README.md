@@ -10,13 +10,6 @@ I’m not your typical Full Stack Developer; my career began in marketing and re
 
 </div>
 
-### 📖 One of my Projects: "Recipedia"
-<div align="justify">
-
-"Recipedia" is a holistic solution for personal health and nutrition, showcasing my ability to integrate cutting-edge technologies and concepts. This project features artificial intelligence to personalize user experiences with chatbot assistance, robust authentication systems, account personalization, and seamless API integration for functionalities like customizable filters for users to tailor their culinary journey.
-
-</div>
-
 ### 💻 Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
